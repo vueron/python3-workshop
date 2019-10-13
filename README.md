@@ -1,6 +1,6 @@
 # Python3-Workshop
 
-### Author: [Ravin Kumar](https://mr-ravin.github.io)
+### Author: Ravin Kumar
 
 Please do submit your valuable feedback to us.
 
