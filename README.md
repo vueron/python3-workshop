@@ -11,7 +11,7 @@ Please do submit your valuable feedback to us.
 sudo apt-get update
 ```
 
-## Steps to install vim in ubuntu(a terminal based file editing tool)
+## Steps to install vim in ubuntu (a terminal based file editing tool)
 
 ```python
 sudo apt-get install vim-nox
@@ -36,8 +36,6 @@ sudo apt-get install python3-pip
 ```python
 sudo pip3 install tweepy
 ```
-
-
 
 
 ### Link for further learning Python3 :
