@@ -5,12 +5,6 @@
 Please do submit your valuable feedback to us.
 
 
-
-
-### Link for further learning Python3 :
-
-Python : http://www.pyschools.com/
-
 ##  Steps to Update ubuntu (for installing packages)
 
 ```python
@@ -42,6 +36,14 @@ sudo apt-get install python3-pip
 ```python
 sudo pip3 install tweepy
 ```
+
+
+
+
+### Link for further learning Python3 :
+
+Python : http://www.pyschools.com/
+
 
 #### Feedback form:
 
