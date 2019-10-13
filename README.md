@@ -2,9 +2,6 @@
 
 ### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-Please do submit your valuable feedback to us.
-
-
 ##  Steps to Update ubuntu (for installing packages)
 
 ```python
