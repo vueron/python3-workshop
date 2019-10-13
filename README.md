@@ -41,7 +41,7 @@ Python : http://www.pyschools.com/
 
 
 #### Feedback form:
-
+Please do submit your valuable feedback to us.
 
 #### We hope that this repository and documentation link referred here, will provide some help to those who want to learn and advance their current skillset in Python 3 :)
 
