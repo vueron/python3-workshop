@@ -40,7 +40,8 @@ sudo pip3 install tweepy
 Python : http://www.pyschools.com/
 
 
-#### Feedback form:
+#### Feedback form: https://docs.google.com/forms/d/e/1FAIpQLSc7f05_nI9THY6TBRRC74u6CtrCS5nFnAS0QV3z5xxmVlAAbA/viewform?vc=0&c=0&w=1
+
 Please do submit your valuable feedback to us.
 
 #### We hope that this repository and documentation link referred here, will provide some help to those who want to learn and advance their current skillset in Python 3 :)
